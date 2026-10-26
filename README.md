@@ -1,2 +1,2 @@
 # docker-october
-learnin Docker afresh.
+Learning Docker afresh.
